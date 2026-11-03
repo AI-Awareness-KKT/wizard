@@ -1,0 +1,1 @@
+{"name":"wizard-duel","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","check":"node --check assets/app.mjs && node --check assets/camera.mjs && node --check assets/engine.mjs"}}
